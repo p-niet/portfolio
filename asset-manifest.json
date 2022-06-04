@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba05bbc3.css",
+    "main.js": "/static/js/main.91c04c7d.js",
+    "static/js/937.c65c4cb0.chunk.js": "/static/js/937.c65c4cb0.chunk.js",
+    "static/js/787.5734fb09.chunk.js": "/static/js/787.5734fb09.chunk.js",
+    "static/media/background.png": "/static/media/background.e60d1bb9b16f9f7b82e7.png",
+    "static/media/shopshopshop.png": "/static/media/shopshopshop.735de6548f8303b39da3.png",
+    "static/media/pokedex.png": "/static/media/pokedex.a9ebfd2520f3fea11414.png",
+    "static/media/flags.png": "/static/media/flags.281a02c67c23bcdeac3e.png",
+    "static/media/maze.png": "/static/media/maze.84756526c5f4dcd46513.png",
+    "static/media/drums.png": "/static/media/drums.899f6ab1e0843f8d641c.png",
+    "static/media/minutnik.png": "/static/media/minutnik.4ea093b51c5c29ba71a3.png",
+    "static/media/kalkulator.png": "/static/media/kalkulator.81b74952afdeb697abe3.png",
+    "index.html": "/index.html",
+    "main.ba05bbc3.css.map": "/static/css/main.ba05bbc3.css.map",
+    "main.91c04c7d.js.map": "/static/js/main.91c04c7d.js.map",
+    "937.c65c4cb0.chunk.js.map": "/static/js/937.c65c4cb0.chunk.js.map",
+    "787.5734fb09.chunk.js.map": "/static/js/787.5734fb09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba05bbc3.css",
+    "static/js/main.91c04c7d.js"
+  ]
+}
